@@ -21,7 +21,7 @@ Atualmente, estou construindo minha base em desenvolvimento de sistemas por meio
 
 ## 📚 Atualmente estudando
 
-* HTML,CSS,JAVASCRIPT
+* HTML, CSS, JAVASCRIPT
 * Desenvolvimento Web
 * Algoritmos
 * Boas práticas de programação
