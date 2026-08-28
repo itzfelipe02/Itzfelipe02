@@ -35,6 +35,9 @@ Meu objetivo é evoluir continuamente como desenvolvedor e ampliar meus conhecim
 
 ## 📫 Contato
 
-💼 LinkedIn: [Meu LinkedIn]()
+💼 LinkedIn: [Meu LinkedIn](www.linkedin.com/in/
+felipe-pires-633363374)
 
 📧 E-mail: felipepires0207@gmail.com
+
+*Este Perfil será Atualizado conforme eu irei realizando Projetos*
