@@ -21,10 +21,11 @@ Atualmente, estou construindo minha base em desenvolvimento de sistemas por meio
 
 ## 📚 Atualmente estudando
 
-* JavaScript
+* HTML,CSS,JAVASCRIPT
 * Desenvolvimento Web
-* Desenvolvimento de sistemas
+* Algoritmos
 * Boas práticas de programação
+* Modelagem De Banco de Dados
 
 ## 🎯 Objetivo
 
@@ -34,6 +35,6 @@ Meu objetivo é evoluir continuamente como desenvolvedor e ampliar meus conhecim
 
 ## 📫 Contato
 
-💼 LinkedIn: [Meu LinkedIn](COLOQUE-SEU-LINK-DO-LINKEDIN-AQUI)
+💼 LinkedIn: [Meu LinkedIn]()
 
-📧 E-mail: SEU-E-MAIL-AQUI
+📧 E-mail: felipepires0207@gmail.com
